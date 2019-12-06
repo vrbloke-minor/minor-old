@@ -1,4 +1,4 @@
-#Minor
+# Minor
 
 Minor projects I've done.
 
